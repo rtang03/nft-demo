@@ -1,5 +1,5 @@
 # nft-demo
-PoC - NFT creation for self-learning
+PoC - NFT creation for teaching
 
 
 Developer Notes:
